@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;org.cibertec.app.Demo05&apos; to &apos;Listado&apos;&#x0D;&#x0A;- Original project: &apos;LPII_Sesion04_MV_GIT&apos;&#x0D;&#x0A;- Original element: &apos;org.cibertec.app.Demo05&apos;&#x0D;&#x0A;- Renamed element: &apos;org.cibertec.app.Listado&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Rename similarly named elements&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Demo05&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;org.cibertec.app{Demo05.java[Demo05" matchStrategy="1" name="Listado" qualified="false" references="true" similarDeclarations="true" stamp="1727632251644" textual="false" version="1.0"/>
+</session>
